@@ -7,5 +7,5 @@ else
     Console.WriteLine(7); 
 }
 
-var str = "test"
+var str = "test+commit"
 Console.WriteLine(str);
