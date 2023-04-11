@@ -9,3 +9,4 @@ else
 
 var str = "test+commit+commit";
 Console.WriteLine(str);
+Console.WriteLine("Hello");
