@@ -6,3 +6,6 @@ else
 { 
     Console.WriteLine(7); 
 }
+
+var str = "test+commit+commit"
+Console.WriteLine(str);
