@@ -6,3 +6,6 @@ else
 { 
     Console.WriteLine(7); 
 }
+
+var str = "test"
+Console.WriteLine(str);
